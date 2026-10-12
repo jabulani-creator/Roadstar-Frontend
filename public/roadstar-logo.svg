@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8 28 640 140" fill="none" role="img" aria-label="RoadStar Driving School">
+  <!-- Wordmark: Road orange · Star green -->
+  <text x="20" y="125" font-family="Montserrat, Poppins, 'Segoe UI', Arial, sans-serif" font-size="92" font-weight="800" letter-spacing="-2">
+    <tspan fill="#F26B21">Road</tspan><tspan fill="#1B8A5A">Star</tspan>
+  </text>
+  <!-- Car icon -->
+  <g transform="translate(508,48)" stroke="#1B8A5A" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M4 52 L4 40 Q4 32 14 30 L34 26 Q44 8 62 8 L84 8 Q98 10 106 28 L118 32 Q124 35 124 42 L124 52 Q124 56 118 56 L10 56 Q4 56 4 52 Z" fill="#F26B21"/>
+    <path d="M42 28 Q50 16 62 16 L72 16 L72 28 Z" fill="#ffffff" stroke-width="3"/>
+    <path d="M78 16 L86 16 Q94 18 98 28 L78 28 Z" fill="#ffffff" stroke-width="3"/>
+    <circle cx="32" cy="56" r="13" fill="#1B8A5A"/>
+    <circle cx="32" cy="56" r="5" fill="#ffffff" stroke="none"/>
+    <circle cx="98" cy="56" r="13" fill="#1B8A5A"/>
+    <circle cx="98" cy="56" r="5" fill="#ffffff" stroke="none"/>
+  </g>
+  <!-- Tagline -->
+  <text x="636" y="152" text-anchor="end" font-family="Nunito, Quicksand, 'Segoe UI', Arial, sans-serif" font-size="30" font-weight="600" fill="#F26B21">Driving School</text>
+</svg>
